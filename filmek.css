@@ -1,0 +1,93 @@
+body
+{
+    margin:0px;
+    padding: 0px; /*gyári margó beállítás nullázása*/
+    font-family: Helvetica;
+}
+ 
+.menufelso
+{
+    padding: 12px;
+    background: #f0f0f0; /*#1D1D1F*/
+    display: flex; /*minden a kereten belül található objektum flexibilis elhelyezkedésű*/
+    align-items: center; /*függőlegesen középre igazodik a fleex dobozon belül minden belső objektum*/
+}
+ 
+.felirat
+{
+   
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    width: 18%;
+}
+ 
+.separator
+{
+    border: 1px solid black;
+    height: 15px;
+    margin-right: 20px;
+    margin-left: 0px;
+}
+.menualso
+{
+    background: black;
+    align-items: center;
+    
+}
+ 
+.bal
+{
+    width: 30%;
+    display: flex; /*minden a kereten belül található objektum flexibilis elhelyezkedésű*/
+    align-items: center;
+}
+ 
+.kozepso
+{
+    width: 50%;
+    display: flex; /*minden a kereten belül található objektum flexibilis elhelyezkedésű*/
+    align-items: center;
+}
+ 
+.menukozepso
+{
+    width: 30%;
+}
+ 
+.menubal
+{
+    width: 0%;
+}
+ 
+.logokep
+{
+    height: 280px;
+    width: auto;
+    margin: -130px 400px -110px -10px;
+    
+}
+ 
+.menupont
+{
+    color: goldenrod;
+    text-decoration: none;
+    font-size: 20px;    
+    padding: 40px;
+    display: inline-block;
+    height: 20px;
+    width: 150px;
+    justify-content: space-between;
+
+}
+ 
+.menupont:hover
+{
+    font-weight: bold
+}
+ 
+.felirat:hover
+{
+    text-decoration:underline;
+}
+ 

@@ -90,8 +90,9 @@ body
 {
     text-decoration:underline;
 }
- 
-.apple_family
-{
-    size: 120%;
+
+.footer{
+    padding: 20px;
+    color: blueviolet;
+    display: block;
 }

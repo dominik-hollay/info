@@ -33,7 +33,7 @@ body
 {
     background: black;
     align-items: center;
-    
+   
 }
  
 .bal
@@ -65,7 +65,7 @@ body
     height: 280px;
     width: auto;
     margin: -130px 400px -110px -10px;
-    
+   
 }
  
 .menupont
@@ -78,7 +78,7 @@ body
     height: 20px;
     width: 150px;
     justify-content: space-between;
-
+ 
 }
  
 .menupont:hover
@@ -90,4 +90,28 @@ body
 {
     text-decoration:underline;
 }
- 
+
+
+.footer{
+    padding: 20px;
+    color: blueviolet;
+    display: block;
+}
+
+.sor{
+    width: 100%;
+  border: 1px solid black;
+  height: 500px;
+}
+.kep1{
+    width: 30%;
+  border: 1px solid black;
+  margin: 20px;
+  padding: 10px;
+  height: 300px;
+  float: left;
+}
+.elso{
+    width: 102%;
+    height: 102%;
+}

@@ -33,7 +33,7 @@ body
 {
     background: black;
     align-items: center;
-    
+   
 }
  
 .bal
@@ -65,7 +65,7 @@ body
     height: 280px;
     width: auto;
     margin: -130px 400px -110px -10px;
-    
+   
 }
  
 .menupont
@@ -78,7 +78,7 @@ body
     height: 20px;
     width: 150px;
     justify-content: space-between;
-
+ 
 }
  
 .menupont:hover
@@ -90,8 +90,9 @@ body
 {
     text-decoration:underline;
 }
- 
-.apple_family
-{
-    size: 120%;
-}
+div {
+    width: 300px;
+    border: 5px black;
+    padding: 50px;
+    margin: 20px;
+  }

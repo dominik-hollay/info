@@ -95,3 +95,10 @@ body
 {
     size: 120%;
 }
+.elso_sor{
+    width: auto;
+  height: 450px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 0;
+}

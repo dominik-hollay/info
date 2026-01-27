@@ -33,7 +33,7 @@ body
 {
     background: black;
     align-items: center;
-    
+   
 }
  
 .bal
@@ -65,7 +65,7 @@ body
     height: 280px;
     width: auto;
     margin: -130px 400px -110px -10px;
-    
+   
 }
  
 .menupont
@@ -78,7 +78,7 @@ body
     height: 20px;
     width: 150px;
     justify-content: space-between;
-
+ 
 }
  
 .menupont:hover
@@ -90,6 +90,7 @@ body
 {
     text-decoration:underline;
 }
+<<<<<<< HEAD
  
 .apple_family
 {
@@ -102,3 +103,17 @@ body
   border: 1px solid black;
   margin: 0;
 }
+=======
+div {
+    width: 300px;
+    border: 5px black;
+    padding: 50px;
+    margin: 20px;
+  }
+
+.footer{
+    padding: 20px;
+    color: blueviolet;
+    display: block;
+}
+>>>>>>> 94896fdcc9fc49eb42c6cc0985ef5640ae69d024

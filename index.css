@@ -90,20 +90,6 @@ body
 {
     text-decoration:underline;
 }
-<<<<<<< HEAD
- 
-.apple_family
-{
-    size: 120%;
-}
-.elso_sor{
-    width: auto;
-  height: 450px;
-  padding: 10px;
-  border: 1px solid black;
-  margin: 0;
-}
-=======
 div {
     width: 300px;
     border: 5px black;
@@ -116,4 +102,3 @@ div {
     color: blueviolet;
     display: block;
 }
->>>>>>> 94896fdcc9fc49eb42c6cc0985ef5640ae69d024

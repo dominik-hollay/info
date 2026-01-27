@@ -121,17 +121,68 @@ body
     width: 100%;
     height: 50px;
     border: 0%;
+    margin-bottom: 50px;
 }
 .gomb{
-    width: 20%;
+    width: 382px;
     border: 0%;
     padding-left: 100px;
     padding-left: 100px;
     height: 50px;
     float: left;
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 76px;
+    margin-right: 76px;
     background-color: black;
+}
+.cim1{
     color: goldenrod;
+    margin-left: 25%;
+}
+.cim2{
+    color: goldenrod;
+    margin-left: 32%;
+}
+.cim3{
+    color: goldenrod;
+    margin-left: 20%;
+}
+.cim4{
+    color: goldenrod;
+    margin-left: 25%;
+}
+.cim5{
+    color: goldenrod;
+    margin-left: 30%;
+}
+.cim6{
+    color: goldenrod;
+    margin-left: 30%;
+}
+footer{
+    bottom: 0;
+    background: black;
+    width: 100%;
+    height: 200px;
+}
+ 
+.link{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    text-align: right;
+}
+ 
+.link:hover{
+    font-weight: bold;
+}
+.kislogo{
+    text-align: left;
+    display: inline;   
+}
+.alsoszoveg{
+    float: right;
+    display:inline ;
+    text-align: right;   
+    padding-right: 30px;
 }
  

@@ -195,6 +195,7 @@ footer {
   border-radius: 25px;
   font-weight: bold;
   transition: 0.2s;
+  margin-bottom: 50px;
 }
 
 .card-gomb:hover {

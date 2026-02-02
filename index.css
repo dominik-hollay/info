@@ -2,8 +2,9 @@ body{
     margin:0px;
     padding: 0px;
     font-family: Helvetica;
+    background: #180c0e;
 }
-  
+ 
 .menualso{
     background: black;
     align-items: center;
@@ -56,20 +57,13 @@ body{
 .felirat:hover{
     text-decoration:underline;
 }
-
+ 
 .nepszeru{
-    width: 100%;
-    height: auto;
-    text-align: center;
-    z-index: 2;
-    
-}
-.teglalap{
-    background: purple;
-    height:980px;
-    width: 100%;
-    z-index: 1;
-    bottom: 0;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
 }
  
 footer{
@@ -92,16 +86,16 @@ footer{
  
 .kislogo{
     text-align: left;
-    display: inline;   
+    display: inline;  
 }
-
+ 
 .alsoszoveg{
     display:inline ;
-    text-align: right;   
+    text-align: right;  
     padding-right: 30px;
     float: right;
 }
-
+ 
 .kisfilm1{
     width: 30%;
     border: 0%;
@@ -111,10 +105,101 @@ footer{
     float: left;
     margin-left: 33px;
 }
-
-
-.footer{
-    padding: 20px;
-    color: blueviolet;
+ 
+.gomb{
+    border: none;
+    background: goldenrod;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    padding: 12px 28px;
+    margin: 25px 80px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: auto;
+}
+ 
+.gomb:hover{
+    text-decoration: underline;
+}
+ 
+.kiskep{
+    width: 450px;
+    height: auto;
+   padding-top: 80px;
+   padding-right: 80px;
+   padding-left: 80px;
+}
+ 
+.kepek{
+    background: black;  
+    height: 550px;
+}
+ 
+.gomb1{
+     border: none;
+    background: goldenrod;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    padding: 12px 15px;
+    margin: 25px 258.32px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+}
+ 
+.gomb2{
+     border: none;
+    background: goldenrod;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    padding: 12px 15px;
+    margin: 25px 258.32px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+}
+ 
+.gomb3{
+     border: none;
+    background: goldenrod;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    padding: 12px 15px;
+    margin: 25px 258.32px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-weight: bold;
+}
+ 
+.gomb1:hover{
+    text-decoration: underline;
+}
+ 
+.gomb2:hover{
+    text-decoration: underline;
+}
+ 
+.gomb3:hover{
+    text-decoration: underline;
+}
+ 
+.csik{
+    background: lightgrey;
+    height: 2px;
+    width: 100%;
     display: block;
+    clear: both;
 }
